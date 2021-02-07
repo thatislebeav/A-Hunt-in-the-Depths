@@ -1,0 +1,104 @@
+{
+  "name": "depths",
+  "title": "Hunt in Depths",
+  "description": "<p>Autumn is in full swing, and as the leaves fall from the trees, our heroes continue their search for a way through the gates and into the deeper tunnels of the dungeon beneath Collum's Bluffs. However, their journey to this point has been far from simple - their travels have taken them around the world, and have gained the attention of the Warden, the mysterious tiefling whom other have referred to as the Creator. It seems she has the key to the gates, but can the party get their hands on this key before more unsavory souls in the world find them first?</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "entity": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-depths-spells",
+      "package": "world",
+      "path": "packs/ddb-depths-spells.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Keith\\AppData\\Local\\FoundryVTT\\Data\\worlds\\depths\\packs\\ddb-depths-spells.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Items",
+      "name": "ddb-depths-items",
+      "package": "world",
+      "path": "packs/ddb-depths-items.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Keith\\AppData\\Local\\FoundryVTT\\Data\\worlds\\depths\\packs\\ddb-depths-items.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-depths-class-features",
+      "package": "world",
+      "path": "packs/ddb-depths-class-features.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Keith\\AppData\\Local\\FoundryVTT\\Data\\worlds\\depths\\packs\\ddb-depths-class-features.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-depths-classes",
+      "package": "world",
+      "path": "packs/ddb-depths-classes.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Keith\\AppData\\Local\\FoundryVTT\\Data\\worlds\\depths\\packs\\ddb-depths-classes.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-depths-racial-traits",
+      "package": "world",
+      "path": "packs/ddb-depths-racial-traits.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Keith\\AppData\\Local\\FoundryVTT\\Data\\worlds\\depths\\packs\\ddb-depths-racial-traits.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-depths-feats",
+      "package": "world",
+      "path": "packs/ddb-depths-feats.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Keith\\AppData\\Local\\FoundryVTT\\Data\\worlds\\depths\\packs\\ddb-depths-feats.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Races",
+      "name": "ddb-depths-races",
+      "package": "world",
+      "path": "packs/ddb-depths-races.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Keith\\AppData\\Local\\FoundryVTT\\Data\\worlds\\depths\\packs\\ddb-depths-races.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-depths-monsters",
+      "package": "world",
+      "path": "packs/ddb-depths-monsters.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Keith\\AppData\\Local\\FoundryVTT\\Data\\worlds\\depths\\packs\\ddb-depths-monsters.db"
+    }
+  ],
+  "languages": [],
+  "authors": [],
+  "keywords": [],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "background": "",
+  "system": "dnd5e",
+  "coreVersion": "0.7.9",
+  "systemVersion": "1.2.2",
+  "nextSession": "1970-01-01T00:00:00.000Z",
+  "availability": 0,
+  "unavailable": false,
+  "id": "depths"
+}
